@@ -5,7 +5,7 @@
         setupForm()
     End Sub
     Sub setupForm()
-        Dim x, y As Integer
+        Dim x, y As Integer ' Starting co-ordinates
         x = 10
         y = 10
         For i = 1 To 10
